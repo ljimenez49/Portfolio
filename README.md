@@ -10,5 +10,18 @@ Key Feature:
 - This program simulates the Pokémon evolving by changing the name of the pokemon. If the Pokemon is not ready to evolve, it does not do nothing.
 
   
-Project 2:
-summary: 
+Project 2: Simple Calculator
+summary: This program is targeted towards preschoolers, it allows the user to perform basic mathematical operations.
+Key Features:
+- The program should display a menu of options for the user to choose from:
+Add
+Subtract
+Multiply
+Divide
+or Quit the program
+- This program...
+1. prompts the user to enter two numbers and the operation to perform.
+2. calls the appropriate function based on the user's input and display the result.
+3. Displays the menu of options and allows the user to perform multiple calculations until the user chooses to quit the program.
+
+Project 3: 
