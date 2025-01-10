@@ -24,4 +24,12 @@ or Quit the program
 2. calls the appropriate function based on the user's input and display the result.
 3. Displays the menu of options and allows the user to perform multiple calculations until the user chooses to quit the program.
 
-Project 3: 
+Project 3: 99 Bottles 
+summary: This program generates and prints out the lyrics to the song "99 Bottles of Milk on the Wall."
+Key Features: 
+- Utilize a loop to iterate through the verses of the song.
+- Use variables to store the current number of bottles and update them within the loop.
+- Do not have to manually type in the numbers in the lyrics.
+- for i in range loop
+
+Project 4: 
